@@ -1,7 +1,5 @@
 # Brewery list
 
-=======
-
 ## ASSIGNMENT:
 
 Use Open Brewery API
@@ -22,8 +20,6 @@ Build a UI you are happy with
 Use any library you feel is appropriate
 
 Google everything you want, whenever you want
-
-=====
 
 ## USED TECHNOLOGY
 
